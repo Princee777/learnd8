@@ -12,3 +12,4 @@ settings.php
 .idea/
 nbproject/
 sites/default/settings.local.php
+sites/drupal8-stage.dd/
